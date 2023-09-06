@@ -1,0 +1,1 @@
+# Cover-letter-generator-nextJS-OpenAI
